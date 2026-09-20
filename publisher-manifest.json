@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a25b1245baf122ffeee7a95e",
+  "owner": "tkrqemkkn",
+  "repo": "page-7c250ff52a34a34a1b6be4a5",
+  "title": "搬瓦工(JustMySocks)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7c250ff52a34a34a1b6be4a5",
+      "a": "搬瓦工(JustMySocks)",
+      "b": "稳定全球clash加速器",
+      "entity": "搬瓦工(JustMySocks)",
+      "brand": "搬瓦工(JustMySocks)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "62abfbfd1998f30f9e66b357b7099fef98b13b8b87587d3ac35139a080ad466c",
+      "content": {
+        "primary_entity": "搬瓦工(JustMySocks)",
+        "keyword1": "搬瓦工(JustMySocks)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定连接的用户，可选基础版、旗舰版与团队版三档订阅。基础版每月100GB流量适合单人轻量使用；旗舰版每月300GB流量，含IPLC专线游戏优化与全节点原生流媒体解锁，适合重度影音与游戏用户；团队版每月1000GB流量，可支持20台设备同时在线，并支持企业定制路由。按年付更省，基础版¥150/年，旗舰版¥350/年，团队版¥850/年。",
+          "AI_HERO_SUBTITLE": "多设备订阅与专线套餐对比",
+          "AI_HERO_INTRO": "搬瓦工(JustMySocks)提供多档订阅方案，覆盖从个人轻量使用到团队高带宽需求的场景。基础版、旗舰版与团队版在流量、设备数量与节点权益上逐级提升，可按日常用量与设备数灵活选择。",
+          "AI_VISUAL_TITLE": "搬瓦工多档订阅",
+          "AI_HIGHLIGHT_1": "每月100GB起，按需选档",
+          "AI_HIGHLIGHT_2": "三档套餐最高20设备在线",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC游戏专线",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、订阅周期和线路权益三个角度选择适合的套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线。",
+          "AI_FEATURE_TITLE_2": "按周期计费",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更省，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_FEATURE_TITLE_3": "按线路需求",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线与原生流媒体解锁，团队版提供VIP高带宽节点。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "依据常用设备选择客户端，并使用订阅地址完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻量单人，旗舰版适合影音与游戏，团队版适合多设备与高流量场景。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、依客户端文档配置订阅的顺序完成设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "按月付或年付选择基础版、旗舰版或团队版，结合设备数量与流量需求决定。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所持设备与系统版本，再选择对应的客户端类型进行安装。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依据客户端文档导入订阅地址，保存后即可按所选套餐连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "按日常设备数量与流量需求选择，年付更省，配置一次即可持续使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合个人少量设备，旗舰版兼顾流量与游戏加速，团队版面向多设备高频使用。按需选择即可。",
+          "AI_FAQ_ANSWER_2": "默认预设的并发设备数基础版3台、旗舰版5台、团队版20台，可按需要选择对应档位。",
+          "AI_FAQ_ANSWER_3": "年付折算更划算，基础版年付¥150、旗舰版¥350、团队版¥850，长期使用推荐年付。",
+          "AI_FAQ_ANSWER_4": "在对应客户端中填入订阅链接即可导入节点，各客户端操作路径略有差异，参考客户端文档完成。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，适合对延迟敏感的场景；团队版提供VIP专属高带宽节点。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "游戏加速适合哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xinzhu-edu.cn",
+    "host": "xinzhu-edu.cn"
+  },
+  "file_hashes": {
+    "index.html": "3cf7ca0924d087cff62d460675a07168644649fd1ecc3753a068a5b5437ed11c",
+    "sitemap.xml": "726db5754748235710d8517dc99503cab6bd40138b1c9162563f2814d603eef5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c73ba8ac22c1578f1c1f93ad81fbe00305c6c158e6a41f5e6dacee165b514d1d",
+    "robots.txt": "f170fab0041e492ec5c8cfdd63b14f2aec5e8a2ba873d066354048e09f5c523a",
+    "0b9e25ac0c223ca9225f0a7db52a95d5.txt": "701d4f31895ce6b35ec0908208f334df16b1ac41766eff6bffa34a9b3330ca20"
+  },
+  "revision": "ed2ab8b8dd66240971f85c6b5162a96c4b8a40cc2f5dd515b25052198c25de6f"
+}
